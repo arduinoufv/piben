@@ -1,4 +1,4 @@
-# Piben 2025/2026 - Bolsista Hugo Costa Araújo - Orientador: Ricardo Ferreira - DIP/UFV
+# Piben 2025/2026 - Bolsista Hugo Costa Araújo - Orientador: Ricardo Ferreira - DPI/UFV
 Série de Oficinas de IA 
 
 # Curso 1 - Elaboração de Questionário para Coleta e Processamento de dados com IA
