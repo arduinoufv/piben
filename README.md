@@ -8,6 +8,7 @@ Série de Oficinas de IA
   * [Pandas e Matplot](https://colab.research.google.com/drive/13-Q3Q5GG2woGoUIjHfKFeCQBFHOgu_jV?usp=sharing)
   * [Dilemas das IAs](https://colab.research.google.com/drive/1mEFwZe17St8tbUpE7hSzu3TgGM0d0uXP?usp=sharing)
   * [Exemplos com Formulários](https://colab.research.google.com/drive/1AKbbg9n0vk65vQZg4ANZ_0h0SwlvNf_C?usp=sharing)
+  * [Exemplo mais completo de processamento de Formulários](https://colab.research.google.com/drive/1O0k1k-_3AIp4fhAqMbr1_zH5Cz45GAtE?usp=sharing)
   * [Slides da Palestra de IA](https://docs.google.com/presentation/d/1YTwBKIxMYfBaF1t3ehJD_xcDjmU6JmU_Zq6-3Q6bo9c/edit?usp=sharing)
 ### Segundo Dia
 ### Terceiro Dia
