@@ -18,8 +18,10 @@ Série de Oficinas de IA
 * [Exemplo com google Forms](https://colab.research.google.com/drive/1L-8pEV3NiSoyARZKWL0VRUKvaGqhyWfL?usp=sharing)
 ### Terceiro Dia
 
+* [material](https://colab.research.google.com/drive/1eh8N0ocnnurarWWyuOZqTv8RKuuw4hT3?usp=sharing)
+
 # Curso 2 -  Processamento de Dados de Planilhas com IA
 ## Material 
-### Primeiro Dia
+### Primeiro Dia  [clique aqui](https://colab.research.google.com/drive/1uPc7NzGS2mpOfL0L9QjC1U8wc2E37IwP?usp=sharing) 
 ### Segundo Dia
 
